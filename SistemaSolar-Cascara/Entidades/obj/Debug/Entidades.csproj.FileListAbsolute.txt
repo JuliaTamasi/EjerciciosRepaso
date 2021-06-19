@@ -1,0 +1,6 @@
+D:\Progra y Labo II\SistemaSolar-Cascara\Entidades\bin\Debug\Entidades.dll
+D:\Progra y Labo II\SistemaSolar-Cascara\Entidades\bin\Debug\Entidades.pdb
+D:\Progra y Labo II\SistemaSolar-Cascara\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Progra y Labo II\SistemaSolar-Cascara\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Progra y Labo II\SistemaSolar-Cascara\Entidades\obj\Debug\Entidades.dll
+D:\Progra y Labo II\SistemaSolar-Cascara\Entidades\obj\Debug\Entidades.pdb
